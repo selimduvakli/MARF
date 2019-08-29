@@ -10,43 +10,9 @@ Himmet Toprak KESGİN,Selim Duvakli
 Yildiz Technical University,Istanbul Medipol University
 29.08.2019
      
- 
-İçindekiler
-1.Giriş	2
-1.1	Amaç	2
-2.	Proje İçeriği	2
-2.1	Projenin Alt Başlıkları	2
-2.1.1	Task Planning and Scheduling with AI Techniques	3
-2.1.2	Multi Agent Communication	3
-2.1.3	AI-Based Path Planning	3
-2.1.4	Drone Path Planning with AI Techniques	3
-3.	Proje Nasıl Çalıştırılır?	3
-4.	Proje Geliştirme Ortamı ve Araçları	3
-4.1	Geliştirme Ortamı	3
-4.2	Geliştirme Araçları	3
 
 
      
-Revizyon Geçmişi
-Yazar
-Tarih
-Değiştirme Nedeni	Versiyon
-
-Ramazan Faruk OĞUZ
-Hakan YÜKSEK,
-Himmet Toprak KESGİN
-31.07.2019
-İlk sürüm başlangıcı
-0.1
-
-Ramazan Faruk OĞUZ
-Hakan YÜKSEK,
-Himmet Toprak KESGİN
-01.08.2019	Proje Açıklamaları Eklendi
-0.2
-Selim Duvakli	29.08.2019	UI bağlantıları eklendi gömülü kodlar kaldırıldı	0.3
-     
-      
 1.	Giriş
 1.1	Amaç
 Bu belgenin amacı MARF projesinin çalışma şeklinin anlatılmasıdır. Bu belge 3 ana bölümden oluşmaktadır. Bu bölümler Proje İçeriği, Proje Nasıl Çalıştırılır ve Proje Geliştirme Ortamı ve Araçları ‘dır.
